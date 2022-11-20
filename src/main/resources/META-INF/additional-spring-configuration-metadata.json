@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "subcas.jwt.expired",
+      "type": "java.lang.Long",
+      "description": "Description for subcas.jwt.expired."
+    },
+    {
+      "name": "subcas.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for subcas.jwt.secret."
+    },
+    {
+      "name": "subcas.jwt.type",
+      "type": "java.lang.String",
+      "description": "Description for subcas.jwt.type."
+    }
+  ] }
